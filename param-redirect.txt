@@ -1,0 +1,7 @@
+currentURL
+lastUrlq
+lastUrl
+asclurl
+successUrl
+autoredirect
+appRedirect
